@@ -1,4 +1,4 @@
 module.exports = function tiny(string) {
-  if (typeof string !== "string") throw new TypeError("This wants a string!");
+  if (typeof string !== "string") throw new TypeError("This app wants a string!");
   return string.replace(/\s/g, "");
 };
