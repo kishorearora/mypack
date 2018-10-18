@@ -1,0 +1,13 @@
+{
+	"name": "@kishorearora/mytestapp",
+	"version": "1.0.0",
+	"description": "Removes all spaces from a string",
+  "repository": "kishorearora/mypack",
+  "main": "index.js",
+  "keywords": [
+    "mypack",
+    "npm",
+    "package",
+    "kishorearora"
+  ]
+}
